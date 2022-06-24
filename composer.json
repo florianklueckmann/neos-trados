@@ -1,10 +1,10 @@
 {
-    "name": "flownative/neos-trados",
+    "name": "florianklueckmann/neos-trados",
     "type": "neos-package",
     "license": "MIT",
     "description": "XML import/export for Neos, suited for Trados translations",
     "require": {
-        "neos/neos": "^4.3 || ^5.0 || ^7.0",
+        "neos/neos": "^4.3 || ^5.0 || ^7.0 || ^8.0",
         "php": "^7.4 || ^8.0",
         "ext-xmlwriter": "*",
         "ext-xmlreader": "*"
